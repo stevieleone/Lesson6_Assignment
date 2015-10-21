@@ -1,0 +1,22 @@
+Title:  Quiz #2
+
+Instructions:  
+The questions do NOT pertain directly to the "Photo Gallery Application", but instead apply to concepts learned in Lesson 6 and this assignment.  Answer the  questions by including your answers in the "Quiz2.txt" file:
+_________________________________________________________________________
+
+Questions:
+
+1.  Name two methods you can use to add a node to the DOM tree, and explain the difference between them.
+The most basic method is appendChild() or you can use createElement().
+The createElement method will not automatically attchach to the DOM tree. The appendChild method will attach because it is a child node and needs a parent node.
+
+
+
+
+2.  List the six main objects that make up the browser object model. 
+navigator objects
+document objects
+window objects
+history objects
+location objects
+screen objects
