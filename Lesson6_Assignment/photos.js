@@ -88,7 +88,7 @@ function previewFive() {
   // add appropriate src values to two new img elements
   document.getElementsByTagName("img")[0].src = "images/IMG_0" + photoOrder[0] + "sm.jpg";
   document.getElementsByTagName("img")[4].src = "images/IMG_0" + photoOrder[4] + "sm.jpg";
-
+ 
   figureCount = 5;
 }//end previewFive()
 
